@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-4d1c4930f3.lejiqu.cn/sitemap.xml
